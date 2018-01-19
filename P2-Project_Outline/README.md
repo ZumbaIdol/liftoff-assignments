@@ -7,11 +7,11 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My app will display Spanish words on a web page and allow users to input the translation of the words in a text box.  The app will validate the user's input.
 ### Features
-Include Features here
+User sign up, email validation before logging in, social media integration.
 ### Technologies
-Include Technologies here
+C#.net, Twitter Bootstrap, Spanish dictionary API
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will need to learn how to incoporate an API, how to setup 2 factor authentication, how to verify email before login, and how to execute social media integration.
