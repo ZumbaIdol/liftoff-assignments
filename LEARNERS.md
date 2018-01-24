@@ -62,4 +62,4 @@
 
 ### Steve Moxley's Group
 
-- Foote, David (@ZumbaIdol)] (https://github.com/ZumbaIdol/liftoff-assignments)
+- [Foote, David (@ZumbaIdol)] (https://github.com/ZumbaIdol/liftoff-assignments)
